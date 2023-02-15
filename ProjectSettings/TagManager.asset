@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Frount
+    uniqueID: 1444676443
+    locked: 0
+  - name: Middle
+    uniqueID: 4061615537
+    locked: 0
+  - name: Back
+    uniqueID: 3414431765
+    locked: 0
